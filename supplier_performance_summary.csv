@@ -1,0 +1,5 @@
+Supplier,Total_Shipments,Avg_Lead_Time,Median_Lead_Time,Std_Dev,Min_Lead_Time,Max_Lead_Time,Late_Deliveries,On_Time_Rate_%,Performance_Score,Rank
+Global Transport,12,4.83,5,0.58,4,6,0,100,25.86,1
+ABC Logistics,15,5.13,5,0.74,4,6,0,100,29.92,2
+XYZ Shipping,14,6.71,7,0.61,6,8,1,92.86,34.91,3
+FastShip Inc,9,13.44,14,1.01,12,15,9,0,100,4
