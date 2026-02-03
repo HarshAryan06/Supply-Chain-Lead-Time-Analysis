@@ -1,8 +1,7 @@
 # Shipment Lead Time Analysis
 
 ## Overview
-This project analyzes shipment lead times using **pre-cleaned CSV datasets**.  
-The Jupyter Notebook consumes final datasets only and focuses on visualization and supplier performance evaluation.
+This project evaluates shipment lead times using pre-cleaned CSV data. It visualizes lead time distributions by supplier and ranks suppliers based on average lead time and late delivery rate to identify the best-performing vendors.
 
 ## Files
 - `Task_Ready_io_updated.ipynb` – Final analysis notebook (original cells unchanged)
